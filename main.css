@@ -13,5 +13,11 @@ div {
   border-top-color: #f00;
      }
 #green {
-       border-top-color: #00bc3f;
-          }
+  border-top-color: #00bc3f;
+        }
+#orange {
+  border-top-color: #ffa500;
+               }
+#yellow {
+  border-top-color: #ff0;
+}
